@@ -206,10 +206,6 @@ A recorded walkthrough of the presentation slides with detailed explanations.
 **Format:** MP4 video on YouTube  
 **Content:** Narrated slide deck with clear audio
 
-## Installation and Usage
-
-This is a documentation and presentation project. No code installation is required.
-
 ### To Access Materials:
 
 1. **Read the Medium article** for a comprehensive written overview
@@ -251,8 +247,6 @@ Additional papers and references are cited within the Medium article and present
 This work is based on the comprehensive survey by Feng, T., Wang, W., and Yang, Y. (2025). The original paper provides extensive technical details and mathematical formulations that should be consulted for in-depth understanding. All interpretations, simplifications, analogies, and personal opinions expressed in the Medium article and presentation are my own.
 
 Special thanks to:
-- Professor and CMPE 255 teaching staff for assignment guidance
-- Anthropic's Claude for research assistance and content structuring
 - The autonomous driving research community for their groundbreaking work
 
 ## Future Work and Extensions
